@@ -24,9 +24,9 @@ Olá, me chamo Thomaz Henrique (DevIkkee)
 
 ## Proficiências
 
-![HTML](https://img.shields.io/badge/-Proficiência%20em%20HTML-ff5733)
-![CSS](https://img.shields.io/badge/-Proficiência%20em%20CSS-00bfff)
-![JavaScript](https://img.shields.io/badge/-Proficiência%20em%20JavaScript-007ACC)
+![HTML](https://img.shields.io/badge/-HTML-ff5733)
+![CSS](https://img.shields.io/badge/-CSS-00bfff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC)
 ![Node.js](https://img.shields.io/badge/-Proficiência%20em%20Node.js-4CAF50)
 ![PHP](https://img.shields.io/badge/-Proficiência%20em%20PHP-9B59B6)
 ![Python](https://img.shields.io/badge/-Proficiência%20em%20Python-1abc9c)
